@@ -1,0 +1,9 @@
+[server]
+# Uploaded .eml files larger than this (MB) are rejected by Streamlit; the app also enforces a 1 MB email limit.
+maxUploadSize = 2
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
