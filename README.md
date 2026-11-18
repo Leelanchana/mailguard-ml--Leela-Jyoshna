@@ -6,6 +6,14 @@ multi-page Streamlit app and in-app monitoring. Built as an AI/ML practical proj
 and deployable for free on Streamlit Community Cloud. It needs no API keys, databases
 or containers.
 
+## 🚀 Live Application
+
+**Try MailGuard ML here:**
+
+[Launch MailGuard ML - Email Spam Detection](https://mailguard-ml--leela-jyoshna-nuchyz87uepbtfprm8onky.streamlit.app/)
+
+---
+
 | Page | What it does |
 |---|---|
 | **Email Analyzer** | Paste raw email or a body, upload an `.eml`, or try a sample. Shows spam/ham verdict, probability, an adjustable threshold, extracted features, parsed headers and URLs, and per-email explanations. |
